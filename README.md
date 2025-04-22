@@ -20,36 +20,47 @@ In this project, I will analyze the spending on coffee , coffee type preferred a
 4.	Total Profit : the total profit made in each country over 3-year period
 ### Charts Requirements
 •	Total sales by country
+
 •	Objective: analyzing the impact of coffee preference among countries
 ### Chart type: Stacked bar chart 
 •	Total sales by city
+
 •	Objective: analyzing the impact of coffee preference among cities
 ### Chart type : Stacked bar chart
 •	Total sales by customer name
+
 •	Objective: analyzing the customers who bought most coffee 
 ### Chart type : Stacked Bar chart 
 •	Total quantities per year
+
 •	Objective: to determine the period where the demand for coffee was high 
 ### Chart type : Clustered column chart
 •	Total sales by country
+
 •	Objective: comparison among countries to determine the country with the most sales.
 ### Chart type : Pie Chart
 •	Loyalty card analysis
+
 •	Objective : To determine the effectives of loyalty cards in the increase of sales 
 ### Chart type : Bar graph
 •	Quantity by coffee type
+
 •	Objective : To determine the most bought coffee type
 ### Chart type : Funnel
 •	Summary of sales by size and  roast type
+
 •	Objective : To determine the years with the most sales with respect to size and the roast type.
 ### Chart type : Line Chart
 •	Sum of unit price by country
+
 •	Objective : To determine the prices in each country and the sales made.
 ### Chart type : Card(new)
 •	Summary of coffee type by city name and the quantities
+
 •	Objective : Visualizing the preference for each country and the sales made.
 ### Chart type : Table 
 •	Profit by each country and coffee type
+
 •	Objective : Determining the coffee type that brought more revenue 
 ### Chart type : Card 
 
