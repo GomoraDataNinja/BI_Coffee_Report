@@ -6,7 +6,9 @@ I have developed a comprehensive Power Bi  project , with detailed visualization
 One of the biggest coffee retailers in United States, Ireland and United Kingdom have been facing ups and downs in his day-to-day business. The behavior of the coffee lovers has been unpredictable between the years 2019 and 2021. This calls the need for a deep analysis to provide  informative advice to the retailer to determine the problems at the same time coming up with solutions on how to satisfy the customers.
 ### The dataset provided include the following columns
 •	Customer demographics: Customer Name, Email, Phone Number, Location
+
 •	Product Information: Coffee type, Roast Type, Size , Unit Price ,Profit
+
 •	Behavioral Data: Loyalty Cards
 The dataset serves to provide information on customer demographics, product information and behavioral data to gain more insights and provide informative decisions to the retailer.
 ### Objectives
